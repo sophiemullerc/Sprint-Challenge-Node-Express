@@ -54,6 +54,7 @@ The _schemas_ (properties and data type of each property) used to store and retr
 
 We have provided test data for all the resources.
 
+
 Now that we have a way to add, update, remove and retrieve data from the provided database, it is time to work on the API.
 
 ### Design and Build Endpoints
